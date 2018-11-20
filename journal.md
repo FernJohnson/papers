@@ -15,3 +15,6 @@ Ground based measurements of BBOA have been made by J. Smith et al.
 
 #Simulations
 John's box model simulations suppor the hypothesis that coagulation is driving particle growth.
+
+#Methodology
+Particle size distributions were measured using a TSI SMPS (Bloggs et al)
