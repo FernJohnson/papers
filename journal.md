@@ -13,8 +13,11 @@ We used an AMS (Allen et al 2004) to measure particle composition.
 
 Ground based measurements of BBOA have been made by J. Smith et al.
 
-#Simulations
+# Simulations
 John's box model simulations suppor the hypothesis that coagulation is driving particle growth.
 
-#Methodology
+# Methodology
 Particle size distributions were measured using a TSI SMPS (Bloggs et al)
+
+# Figures
+Figures will go here.
