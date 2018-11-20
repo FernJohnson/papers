@@ -5,6 +5,11 @@ Model-Measurements of BBOA over West Africa
 Gerard Capes
 John Smith
 
+# Abstract
+
+Write this last, it's most difficult to do.
+Also include your main results so people can cite you without reading the whole thing.
+
 # Introduction
 We have to acknowledge previous work, so as not to appear full of ourselves.
 Haywood et al 1998 made great measurements here already.
